@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Aman Kumar Verma file:///C:/Users/amanv/Downloads/MicrosoftWindows.Client.CBS_cw5n1h2txyewy!InputApp/NinjalaJaneGIF.gif</h1>
+<h1 align="center">Hey 👋, I'm Aman Kumar Verma </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2pyZ3h4amppd2YxYWZhNHo2MHJrM3BzMHU1OTk2OHdxenJqYjB2OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif>
