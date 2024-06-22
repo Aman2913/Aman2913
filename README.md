@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Aman Kumar Verma </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2pyZ3h4amppd2YxYWZhNHo2MHJrM3BzMHU1OTk2OHdxenJqYjB2OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif>
+<img align="right" alt="coding" width="400" src=(https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZkbDFrY3ZwcWIwNmN3NHNrbnlqZ2dqaWt6bW1ibnc2YmhiMjZnNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp)>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman2913&label=Profile%20views&color=0e75b6&style=flat" alt="aman2913" /> </p>
 
