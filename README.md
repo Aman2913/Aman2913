@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aman2913" alt="aman2913" /></a> </p>
 
-- 🌱 I’m currently learning **AWS DevOps**
 
 - 📫 How to reach me **amanverma00199900@gmail.com**
 
