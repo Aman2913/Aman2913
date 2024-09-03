@@ -1,7 +1,7 @@
 ![Header](./github-header-image1.png)
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/fb3dfab03c21c4f871e4511993c25e443e7d627c4755fc35b5d14b494523e815/68747470733a2f2f67696664622e636f6d2f696d616765732f686967682f616e696d617465642d63686f636b2d636f64696e672d6337386636656c6a333273666f6938712e676966">
+<img align="right" alt="coding" width="400" src="./68747470733a2f2f67696664622e636f6d2f696d616765732f686967682f616e696d617465642d63686f636b2d636f64696e672d6337386636656c6a333273666f6938712e676966.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman2913&label=Profile%20views&color=0e75b6&style=flat" alt="aman2913" /> </p>
 
